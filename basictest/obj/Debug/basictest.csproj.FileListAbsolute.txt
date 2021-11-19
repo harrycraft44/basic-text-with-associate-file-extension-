@@ -1,0 +1,10 @@
+C:\Users\harry\source\repos\basictest\basictest\bin\Debug\basictest.exe.config
+C:\Users\harry\source\repos\basictest\basictest\bin\Debug\basictest.exe
+C:\Users\harry\source\repos\basictest\basictest\bin\Debug\basictest.pdb
+C:\Users\harry\source\repos\basictest\basictest\obj\Debug\basictest.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\basictest\basictest\obj\Debug\basictest.Form1.resources
+C:\Users\harry\source\repos\basictest\basictest\obj\Debug\basictest.Properties.Resources.resources
+C:\Users\harry\source\repos\basictest\basictest\obj\Debug\basictest.csproj.GenerateResource.cache
+C:\Users\harry\source\repos\basictest\basictest\obj\Debug\basictest.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\basictest\basictest\obj\Debug\basictest.exe
+C:\Users\harry\source\repos\basictest\basictest\obj\Debug\basictest.pdb

@@ -1,0 +1,9 @@
+C:\Users\harry\source\repos\basictest\basictest\bin\Release\basictest.exe.config
+C:\Users\harry\source\repos\basictest\basictest\bin\Release\basictest.exe
+C:\Users\harry\source\repos\basictest\basictest\bin\Release\basictest.pdb
+C:\Users\harry\source\repos\basictest\basictest\obj\Release\basictest.Form1.resources
+C:\Users\harry\source\repos\basictest\basictest\obj\Release\basictest.Properties.Resources.resources
+C:\Users\harry\source\repos\basictest\basictest\obj\Release\basictest.csproj.GenerateResource.cache
+C:\Users\harry\source\repos\basictest\basictest\obj\Release\basictest.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\basictest\basictest\obj\Release\basictest.exe
+C:\Users\harry\source\repos\basictest\basictest\obj\Release\basictest.pdb
